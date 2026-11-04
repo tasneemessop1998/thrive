@@ -1,7 +1,7 @@
 // Thrive service worker: works offline and loads instantly.
 // The page itself is fetched fresh when online (so updates arrive straight away);
 // everything else is served from the cache and refreshed in the background.
-const VERSION = "thrive-11.0.0";
+const VERSION = "thrive-11.0.1";
 const SHELL = ["./", "index.html", "config.js", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png",
   "fb/firebase-app-compat.js", "fb/firebase-auth-compat.js"];
 
