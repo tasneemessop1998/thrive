@@ -4,13 +4,15 @@ window.THRIVE_CONFIG = {
   // 1) Firebase: accounts, saving everyone's data, friends, circles and messages.
   //    Firebase console › Project settings › General › Your apps › Web app › Config. Paste the values.
   firebaseConfig: {
-    apiKey: "PASTE_YOUR_API_KEY",
-    authDomain: "PASTE-your-project.firebaseapp.com",
-    projectId: "PASTE-your-project",
-    storageBucket: "PASTE-your-project.firebasestorage.app",
-    messagingSenderId: "PASTE",
-    appId: "PASTE"
+    apiKey: "AIzaSyAU4MCw6PqVpAqrMISW8zPeDdL2pVt2r34",
+    authDomain: "thrive-f6f88.firebaseapp.com",
+    projectId: "thrive-f6f88",
+    storageBucket: "thrive-f6f88.firebasestorage.app",
+    messagingSenderId: "415384939724",
+    appId: "1:415384939724:web:c047a9699d4bc48a362669"
   },
+
+
 
   // 2) Groq: the AI that reads food from words and photos, suggests meals and runs the coach.
   //    console.groq.com › API Keys › Create API key. Paste it between the quotes.
