@@ -18,7 +18,7 @@ window.THRIVE_CONFIG = {
   //    console.groq.com › API Keys › Create API key. Paste it between the quotes.
   //    Note: anyone who opens this file on your site can see the key. On Groq's free plan the
   //    worst case is that someone uses up your daily allowance; you can delete the key and make a new one any time.
-  groqKey: "",
+  groqKey: "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",
 
   // Models (leave as they are unless Groq retires one)
   aiModel: "openai/gpt-oss-120b",
